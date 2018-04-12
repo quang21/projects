@@ -1,0 +1,3 @@
+# projects
+CCNP1
+This is example about CCNP lab: MPLS, BGP, VTP, Vlan...
